@@ -34,4 +34,4 @@ A page possui um design moderno e responsivo e possui animações feitas com css
 
 Para ver o projeto em funcionamento, você pode visitar o link abaixo:
 
-[Ver Projeto](https://https://patinsanimada.hallanchristian.com.br/)
+[Ver Projeto](https://patinsanimada.hallanchristian.com.br/)
